@@ -28,6 +28,7 @@ export const Slidebar = styled.div`
     width: 100%;
     display: flex;
     border-bottom: 1px solid #16195c;
+    border-right: none;
     justify-content: space-around;
   }
 `;
